@@ -1,0 +1,11 @@
+[Frame: 1]
+  Detected: Person, Confidence: 0.92, Bounding Box: (X: 34, Y: 90, W: 100, H: 180)
+  Detected: Car, Confidence: 0.85, Bounding Box: (X: 210, Y: 150, W: 200, H: 140)
+
+[Frame: 2]
+  Detected: Person, Confidence: 0.93, Bounding Box: (X: 40, Y: 88, W: 102, H: 182)
+  Detected: Car, Confidence: 0.87, Bounding Box: (X: 215, Y: 148, W: 198, H: 142)
+
+[Frame: 3]
+  Detected: Person, Confidence: 0.91, Bounding Box: (X: 46, Y: 85, W: 105, H: 185)
+  Detected: Car, Confidence: 0.88, Bounding Box: (X: 220, Y: 146, W: 196, H: 144)
